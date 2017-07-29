@@ -3,6 +3,8 @@
 
 Reads in data from a text file with information about the Titanic. Then, processes that data to gather various statistics about the Titanic.
 
+_Note: To run this project succsefully, you must use the commandline argument of "Titanic.txt". This allows the program to find the file correctly, this was a requirement for the project._
+
 ---
 ###### This project was assigned while attending University of Maryland University College (UMUC)
 ---
